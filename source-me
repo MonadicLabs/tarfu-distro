@@ -29,6 +29,7 @@ DISTRO = "opi"' >> "$BUILD_DIR/conf/local.conf"
 BBLAYERS += \" \\
   $DIR/meta-openembedded/meta-oe \\
   $DIR/meta-qt5 \\
+  $DIR/meta-tarfu \\
   $DIR/meta-opi \\
   \"" >> "$BUILD_DIR/conf/bblayers.conf"
 

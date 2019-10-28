@@ -7,3 +7,6 @@
 [submodule "meta-qt5"]
 	path = meta-qt5
 	url = https://github.com/meta-qt5/meta-qt5.git
+[submodule "meta-tarfu"]
+	path = meta-tarfu
+	url = https://github.com/MonadicLabs/meta-tarfu.git
